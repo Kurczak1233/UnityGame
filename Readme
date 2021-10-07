@@ -1,1 +1,15 @@
-Test documentation
+UnityGame is a simple music like game, which allows user to listen to music and remember patterns simultaneously.
+
+
+Tech stack:
+Figma
+Unity
+GitHub
+
+The main plan of the game consists of the stages on which the user have to click on the buttons rythmically.
+The pattern will be shown in advance beforehand the user turns by a bot. The buttons will be highlighted as the notes play.
+The goal of the game is to repeat all the patterns shown by a bot.
+The limitations will constist of limited user reaction time and the corectness of the pattern.
+
+The first draft of the idea:
+
