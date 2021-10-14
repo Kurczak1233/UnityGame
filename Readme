@@ -8,8 +8,24 @@ GitHub
 
 The main plan of the game consists of the stages on which the user have to click on the buttons rythmically.
 The pattern will be shown in advance beforehand the user turns by a bot. The buttons will be highlighted as the notes play.
-The goal of the game is to repeat all the patterns shown by a bot.
+The goal of the game is to repeat all the patterns shown by a bot and defeat all bosses.
 The limitations will constist of limited user reaction time and the corectness of the pattern.
+
+The player will be starting from the bottom of the stage at the bottom left platrform. We may use some kind of asset to implement a hero there.
+We could also add some kind of animation which could represent the jump of a player on an other platform.
+
+The player will have to repeat the shown pattern by the boss visible on the right top corner of the stage. He may also add some kind of special effects to the stage like ice or hot
+Which may help the user to keep the pace?
+
+At the moment we are thinking about implementing a hero, who will fight against some enemy/boss, who will somehow disturb a player.
+There are few possible solutions which we may try to implement. To give the whole game some kind of gaming spirit, we can show some kind of cutscene before the right gameplay.
+
+The player will have to defeat boss every few levels.
+
+User will have to have at least 3 lives during the stage gameplay. 
+
+The stage should consist of few sequences which could allow the user to repeat a fragment of a melody. The music should be looped in a segments, 
+so the user can keep up the pace and repeat the sequences in a specific rythm.
 
 The first draft of the idea:
 
