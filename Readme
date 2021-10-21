@@ -6,8 +6,36 @@ Figma
 Unity
 GitHub
 
+General overview:
 The main plan of the game consists of the stages on which the user have to click on the buttons rythmically.
-The pattern will be shown in advance beforehand the user turns by a bot. The buttons will be highlighted as the notes play.
+We are mainly focused on creating some educational game with music elements which will play an important role in the whole project.
+The pattern will be shown in advance beforehand the user turn. The buttons will be highlighted as the notes play.
+The game should consists of at least few stages in order for us to educate more how to use unity, and for the user entertainement.
+Every stage will be divided into sequences which user has to beat at least correctly to beat the enemy.
+
+
+Story:
+The game should include some simple story elements in order to introduce user into a specific mood.
+In order for game to be educational and funny we want to introduce a hero called Janusz.
+Janusz is a construction site worker who is working in Norway and is addicted to alcohol as the slavic tradition says.
+At the beggining there will be an intro showing the Janusz who is drunk.
+The hero will have to trick the supervisor who is assessing the current soberness of the Janusz that he is sober when in reality he is not.
+There will be few supervisors, from the teams colleagues to the boss of the company who will be alerted about the situation.
+Beating the game will result in no fines for the Janusz who is happy that he can continue his work and the slavic tradition.
+
+Stages:
+The stage will consists of multiple gray blocks. The blocks will be changing colours when the pattern shown by the boss will be activated.
+There will be a few stages, for each stage there will be different enemy to trick. 
+The effect can vary. For instance we plan to add some drunkeness effects which will imitate the state of the Janusz.
+Other example may consists of speeding up or slowing down the pace, or some other graphical effects which could strenghten the visal impressions.
+Every boss should have different effects.
+After the intro the user will be shown a tutorial how to use the interface. 
+
+
+There are plans to introduce some extra musical or graphical effects which could help.
+
+
+
 The goal of the game is to repeat all the patterns shown by a bot and defeat all bosses.
 The limitations will constist of limited user reaction time and the corectness of the pattern.
 
