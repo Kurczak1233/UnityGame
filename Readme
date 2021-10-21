@@ -13,7 +13,6 @@ The pattern will be shown in advance beforehand the user turn. The buttons will 
 The game should consists of at least few stages in order for us to educate more how to use unity, and for the user entertainement.
 Every stage will be divided into sequences which user has to beat at least correctly to beat the enemy.
 
-
 Story:
 The game should include some simple story elements in order to introduce user into a specific mood.
 In order for game to be educational and funny we want to introduce a hero called Janusz.
@@ -30,31 +29,22 @@ The effect can vary. For instance we plan to add some drunkeness effects which w
 Other example may consists of speeding up or slowing down the pace, or some other graphical effects which could strenghten the visal impressions.
 Every boss should have different effects.
 After the intro the user will be shown a tutorial how to use the interface. 
+There are plans to introduce some extra musical or graphical effects which could help or disturb the user in the game.
 
+Gameplay:
+The user will have to complete serveral patterns shown by the supervisor/boss. The user will have basic set of 3 lives (or more) per level.
+Maximal amount of lives will give the user possibility to make some mistakes without losing the level progress.
+  Sequences: 
+  The main idea behind sequences is that there should be at least a few of them.
+  After every sequence the user will have a few seconds break, and then the new pattern will be shown.
+  At the beggining of each level the user will start with 3 lives. Hovever every mistake will cost in one life.
+  The user may obtain some extra lives by catching the rythm appropriately, or jumping on blocks which may contain a heart.  
+The user will have to jump on the blocks in the rythm, so he can keep up the pace.
+Losing all lives results in being detected as a drunk.  
 
-There are plans to introduce some extra musical or graphical effects which could help.
+Limitations:
+User reaction,
+Lives,
 
-
-
-The goal of the game is to repeat all the patterns shown by a bot and defeat all bosses.
-The limitations will constist of limited user reaction time and the corectness of the pattern.
-
-The player will be starting from the bottom of the stage at the bottom left platrform. We may use some kind of asset to implement a hero there.
-We could also add some kind of animation which could represent the jump of a player on an other platform.
-
-The player will have to repeat the shown pattern by the boss visible on the right top corner of the stage. He may also add some kind of special effects to the stage like ice or hot
-Which may help the user to keep the pace?
-
-At the moment we are thinking about implementing a hero, who will fight against some enemy/boss, who will somehow disturb a player.
-There are few possible solutions which we may try to implement. To give the whole game some kind of gaming spirit, we can show some kind of cutscene before the right gameplay.
-
-The player will have to defeat boss every few levels.
-
-User will have to have at least 3 lives during the stage gameplay. 
-
-The stage should consist of few sequences which could allow the user to repeat a fragment of a melody. The music should be looped in a segments, 
-so the user can keep up the pace and repeat the sequences in a specific rythm.
-
-The first draft of the idea:
-
-![alt text](http://url/to/img.png)
+Goal: 
+Defeat all bosses.
