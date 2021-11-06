@@ -22,6 +22,20 @@ The hero will have to trick the supervisor who is assessing the current sobernes
 There will be few supervisors, from the teams colleagues to the boss of the company who will be alerted about the situation.
 Beating the game will result in no fines for the Janusz who is happy that he can continue his work and the slavic tradition.
 
+Hero and enemies:
+The main hero Janusz as mentioned in the story above, is a construction site worker who is cultivating the slavic tradition and is addicted to alcohol.
+Janush will have to challange a few bosses and enemies in order to beat the game and continue working in his current place.
+All of the bosses or enemies think that Janusz is up to something and they try do reveal that Janusz is breaking the rules in the work place.
+The most common enemy - the colleague is not really a nice person, so he is trying to set the Janusz up. Colleague will be the least dangerous enemy and he should be hard to beat.
+The First boss - The team leader is responsible for the team in which the Janusz is working. He is trying to keep up the good work pace and safety procedures.
+Fight with the team leader, should be quite challanging for everybody. In order to beat him Janusz should repeat several quite tricky sequences in order to remain safe and not be discovored.
+The second boss - The construction supervisor is responsible for the general overview of the project. More experienced enemy who has seen many polish workes and can smell alcohol in a close proximity instantly.
+The fight should constist of more advanced and tricky sequences. This time we may introduce some kind of additional traps for users like poisoned blocks and less time for sync to the rythm.
+There may be serveral more bosses like The National Labour Inspectorate, which may be also tricky due to the many little sequences user has to remember at once.
+I am also wondering about some minibosses like cat which may be running around us and lead the Janusz to fall over which may easily discover him.
+Some mini boss may be also the gravity or the uneven floor. There is a common polish saying explaining the unevenness on the floor: "Nikt z tego nie będzie strzelał" which means that the flaws are totally indifferent for the speaker.
+The final boss: The general director, should be the hardest boss of all. There should be a challange so the user should feel relieve that he has finally beat the final boss. 
+
 Stages:
 The stage will consists of multiple gray blocks. The blocks will be changing colours when the pattern shown by the boss will be activated.
 There will be a few stages, for each stage there will be different enemy to trick. 
@@ -40,22 +54,48 @@ Maximal amount of lives will give the user possibility to make some mistakes wit
   At the beggining of each level the user will start with 3 lives. Hovever every mistake will cost in one life.
   The user may obtain some extra lives by catching the rythm appropriately, or jumping on blocks which may contain a heart.  
 The user will have to jump on the blocks in the rythm, so he can keep up the pace.
-Losing all lives results in being detected as a drunk.  
+Losing all lives results in being detected as a drunk.
+There may be also an interesting thing to include some kind of drinking minigames.
+The Janusz may collect some alcohol to drink which may increase his drunkness level to the "correct" status.
+The idea is not to be sober nor get totally drunk. The user should preserve the perfect balance in order to keep the slavic tradition.
+Due to the range of bosses, minibosses and enemies there will be some modifications in the gameplay. Low level users which fight with an easy enemy should not be punished for his lack of experience.
+A user should be rather tought how to play the game correctly and we should give him some space for mistakes. The stronger the boss is the less margin for mistakes will be.
+The cat or the floor may create some additional blocks visial effects which should give the player the mood of the fight. 
+Like the floor (gravity) should interact with the user in a different way than a person do. I mean that the fight with the floor should for instance display monochromatic colors on the blocks rather than colorful.
+It should also be somehow relaxing, that the user should not find miniboss fight as a challange. The fight may include some easter eggs, and the margin of error should not be so strict.
+Standard enemies should interact with user on a regular basis. Hovever, despite the fact that there should be a few fights with regular enemies, every fight should consists of other visual and musiacl elements.
+This may keep the user entertained and interested in the game. For instance, one ordinary enemy may play some hardcore/hardstyle music and the other may play some classical one.
+The differentaiation will definitely keep the user entertained and every player will find something for themself. Furthermore, maybe the player will get to know to some unknown genre of music?
+Fights with bosses should be challanging. The margin of errror for the correctness of the repeated pattern should be more strict than in other fights. There should also be some kind of additional traps.
+Some freezing effects, some speeding efffects, poisoneous traps, short time of visual graphics displayed and so on. The most important one, the drunkness effect should be also included. We play as a drunked hero after all.
+After beating all the mentioned bosses, the user will be safe and he will be able to continue the work in his current workplace without any consequences.
+Any kind of failure will result in being discovered as an alcoholic which is being drunk in his workplace.
+The failure screen will be shown when the user is lack of hearts which may be refilled when the user completes the level or gather some extra lives on the stage.
 
-Characteristic traits:
-Many music genres,
-Colorful boards, musical game,
-Funny story including polish workers in Norway and alcohol.
+Graphical and musiacal effects:
+I think that there should be a great contrast between the stage, and the bosses. THE UI should be keep in a dark scenery. 
+The most contrasting elements should be the hero (Janusz), the enemies, the life status (hearts), and the finished levels.
+The stage should be also blurred especially when fighting with bosses, due to the lack of soberness of the Janusz.
+Every sequence should be a very colorful and a musical spectacle. A User should easily concentrate of the correct pattern and be interested be the variatons of music played.
+The colors should not very much every sequence. The fight should consists of monochromatic colors when we play with for example a floor or a dog/cat, and it should be colorful when we fight with human being.
+Every activity when we are little drunk is a colorful and interesting activty isn't it? For this reason I think that we may also try to overload the user with the action played on the stage sometimes.
+The genres of music should be a rich and colorful mix of notes, songs, instruments, voices. Some opera aria contrasted to the hardcore techno or some pop music contrasted to the edm.
+The user should not be bored by the common pop music or something like that. Even the developers should get to know something new which does not belong to the field of learning new framework or programing language.
+The special effects should be easily recognisable, like the blocks containing poision should be green, the extra heart block should be intensiviely red and so on.
 
-Music:
-Every genre possible.
+UI:
+Should be really simple. The main part of the screen should consist of the board with the blocks.
+The right panel should show the list of levels which are still available to finish.
+The top bar should show the Janusz drunkness and the hearts. There should be also a third spot on the top bar which should show if the Janusz is affected by some kind of trap or effect like posion.
+The left bottom part of the screen should show the Janusz our hero, and the top right bar should show the enemy we currently fight with.
 
-Limitations:
-User reaction,
-Lives,
+Distibution:
+The game should not be distributed as a paid game. The whole idea may be overwhealming for some people who won't find this game funny. 
+This game should be completely negative feelings free because the whole gameplay should be just a joke and should not be taken seriously.
+To preserve developers mental wellbeing the game should not be released to the public.
+We are planning to release the game mainly on the web.
 
-Goal: 
-Defeat all bosses.
-
-Platform:
-Web. 
+Financial model:
+Sleepless nights, tons of coffee, caffeine tabs, blurred vision, tired developers, backache, headache.
+As a poor students we do not plan to spend a large amount of money on this project. Maybe on the petrol and energetics which allow us to continue the studies.
+We are here to learn and have fun after all and even during writing this documentation we are having it. We still have time when the IT world will overwhealm us.
